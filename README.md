@@ -1,2 +1,2 @@
-# dblp-quad-2-0
+# DBLP QuAD 2.0
 A repository for DBLP QuAD 2.0
