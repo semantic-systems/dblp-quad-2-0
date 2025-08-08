@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 log_data/
 .DS_STORE
+apache-jena-5.5.0/

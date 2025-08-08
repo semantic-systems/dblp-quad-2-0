@@ -13,6 +13,7 @@ class Config:
     LOCAL_SPARQL_ENDPOINT = os.environ.get("LOCAL_SPARQL_ENDPOINT", "")
     DBLP_QUAD_1_SPARQL_ENDPOINT = os.environ.get("DBLP_QUAD_1_SPARQL_ENDPOINT", "")
     DBLP_ENTITY_LINKER = os.environ.get("DBLP_ENTITY_LINKER", "")
+    APACHE_JEANA_ARQ_PATH = os.environ.get("APACHE_JEANA_ARQ_PATH", "")
     LLMS = {
         "openai": {
             "url_chat_completions": "https://api.openai.com/v1/chat/completions",
