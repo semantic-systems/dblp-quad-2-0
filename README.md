@@ -1,7 +1,9 @@
 # DBLP QuAD 2.0 (DBLP Question Answering Dataset)
 A repository for DBLP QuAD 2.0
 
-DBLP QUAD data items:
+The train, dev,and test sets are found in data folder.
+
+#### Example:
 ```json
 {
 "id": "94fb678b-dd7e-4b29-a052-86ed04b477cf",
