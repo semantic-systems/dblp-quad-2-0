@@ -1,4 +1,4 @@
-# DBLP QuAD 2.0 (DBLP Question Answering Dataset)
+# DBLP QuAD 2.0: Scholalry Natural Questions from SPARQL
 A repository for DBLP QuAD 2.0
 
 The train, dev,and test sets are found in data folder.
