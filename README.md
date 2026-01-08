@@ -1,6 +1,7 @@
 # DBLP QuAD 2.0: Scholalry Natural Questions from SPARQL
-A repository for DBLP QuAD 2.0
-
+A repository for [DBLP QuAD 2.0: Scholarly Natural Questions from SPARQL](https://dl.acm.org/doi/10.1145/3731443.3771376) paper.
+DBLP-QuAD 2.0, designed to evaluate Scholarly Knowledge Graph Question Answering (KGQA) over DBLP. The questions in the dataset are formulated from SPARQL query logs.
+## Data
 The train, dev,and test sets are found in data folder.
 
 #### Example:
